@@ -1,4 +1,5 @@
 
+[![Build Status](https://msftjamesvac.visualstudio.com/ContosoAir/_apis/build/status/MSFTJim.ContosoAir?branchName=master)](https://msftjamesvac.visualstudio.com/ContosoAir/_build/latest?definitionId=15&branchName=master)
 
 
 # Microsoft.Github CI Demo
